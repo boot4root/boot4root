@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @boot4root
-- 👀 I’m interested in Back-end.
+- 👋 Hi, I’m @boot4root.
+- 👀 I’m interested in object oriented programming.
 - 🌱 I’m currently learning Python, SQL.
 - 📫 How to reach me boot4root@gmail.com
 
