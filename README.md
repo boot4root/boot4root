@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boot4root.
 - 👀 I’m interested in object oriented programming.
-- 🌱 I’m currently learning Python, SQL.
+- 🌱 I’m currently learning Python, JavaScript, SQL.
 - 📫 How to reach me boot4root@gmail.com
 
 <!---
